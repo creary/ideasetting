@@ -6,6 +6,10 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="1152695512@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.2.29" />
+          <option name="userName" value="linpeihao" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
